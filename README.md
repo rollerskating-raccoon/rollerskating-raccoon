@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rollerskating-raccoon
 - 👀 I’m interested in web design and programming
 - 🌱 I’m currently learning HTML, CSS, Python & Ruby
-- 💞️ I am designing the capybara website & logo
+- 💞️ I am working on a Python project
 
 
 <!---
